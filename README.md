@@ -19,3 +19,5 @@
    - **`misc.bin`在仓库目录[misc](https://github.com/jwy2008/imoo_Z6dfb_root/tree/main/misc)里**
 
 - **发现者:[早茶光不是找茬光](https://space.bilibili.com/1268760897)**
+
+编写:[jwy2008]
